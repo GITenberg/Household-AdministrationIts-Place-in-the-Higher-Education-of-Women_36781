@@ -1,0 +1,37 @@
+_repo: Household-AdministrationIts-Place-in-the-Higher-Education-of-Women_36781
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Schiff, Catherine J.
+    gutenberg_agent_id: '38471'
+    url: http://www.gutenberg.org/2009/agents/38471
+  - agent_name: Ravenhill, Alice
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '38470'
+    url: http://www.gutenberg.org/2009/agents/38470
+description: ''
+gutenberg_issued: '2011-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Women -- Education'
+- !lcsh 'Home economics'
+tableOfContents: 'Introduction: a brief historical sketch of woman''s position on
+  the family / Catherine Schiff -- The place of biology in the equipment of women
+  / Wenona Hoskyns-Abrahall -- Science in the household / Mrs. W.N. Shaw -- The economic
+  relations of the household / Mabel Atkinson -- Some relations of sanitary science
+  to family life and individual efficiency / Alice Ravenhill -- Modern woman and the
+  domestic arts: Needlework and dressmaking / Mrs. R.W. Eddison. Housecraft / Maud
+  R. Taylor.'
+title: Household Administration, Its Place in the Higher Education of Women
+url: http://www.gutenberg.org/ebooks/36781
